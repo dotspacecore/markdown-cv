@@ -1,3 +1,7 @@
+---
+layout: cv
+title: CV
+---
 # Sandra Meza Delgado
 Analista-Programadora de Sistemas.
 
@@ -17,7 +21,8 @@ __Licenciatura en Ciencias Informáticas, Universidad Autónoma de Asunción__
 `2011-Presente`
 __Roshka__, Asunción
 
-- Analista-Programadora de aplicaciones y servicios web para diversas entidades.
+- Desarrollo de aplicaciones y servicios web para diversas entidades.
+- Homebanking, B2B (Business to Business), Terminales de Autoservicio.
 
 
 ## Aptitudes
