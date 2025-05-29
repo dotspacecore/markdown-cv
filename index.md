@@ -3,26 +3,22 @@ layout: cv
 title: Sandra Delgado's CV
 ---
 # Sandra Delgado
-Backend Developer comfortable in Frontend as well.
+Backend engineer with some Frontend experience.
 
 <div id="webaddress">
 <a href="sandelgadopy@protonmail.com">sandelgadopy@protonmail.com</a>
-| <a href="www.linkedin.com/in/sandra-meza-delgado-381b5527">My LinkedIn page</a>
+| <a href="www.linkedin.com/in/sandra-meza-delgado-381b5527">LinkedIn</a>
 </div>
 
 
-## Currently
+### Specializes in
 
-Actively searching for my next job after relocating to the US.
-
-### Specialized in
-
-Backend development, currently transitioning to Fullstack. Also cloud technologies, mostly Azure.
+Backend development, Azure Cloud services, financial systems, and digital marketing systems.
 
 
 ### Tech skills
 
-C#, JavaEE, Spring, SpringBoot, Python, React, JavaScript, TypeScript, SQLServer, PostgreSQL, Azure
+C#, JavaEE, Spring, SpringBoot, Python, React, JavaScript, TypeScript, SQLServer, PostgreSQL, Azure Cloud
 
 
 ## Occupation
@@ -30,20 +26,20 @@ C#, JavaEE, Spring, SpringBoot, Python, React, JavaScript, TypeScript, SQLServer
 `2022-2024`
 __Unite Digital__, US
 
-- Software Engineer
-- Worked alongside the development team on both backend and frontend for enterprise applications specialized on enrollment, data collection and display, supporting the auto dealership industry.
+- Software Engineer - .NET/React
+- Maintained and developed features for digital marketing systems, including a lead engine, enrollment center, and metrics dashboard.
 
 `2021-2022`
 __Coderio__, Argentina
 
 - Java Developer
-- Worked alognside other LATAM teams on backend applications supporting opperations for a large e-commerce chain in LATAM
+- Maintained large backend systems for E-Commerce businesses in South America with engineers across the continent.
 
 `2011-2021`
 __Roshka__, Paraguay
 
 - Software Developer
-- Worked with both development and support teams on web applications for the Fintech sector in Paraguay: Online homebanking, B2B, Self-service terminals and REST/SOAP APIs.
+- Developed web applications for the fintech sector in Paraguay, including online banking, B2B applications, Self-service terminals and REST/SOAP APIs.
 
 
 ## Education
