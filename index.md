@@ -6,7 +6,9 @@ title: Sandra Delgado's CV
 Backend engineer with some Frontend experience.
 
 <div id="webaddress">
-<a href="sandelgadopy@protonmail.com">sandelgadopy@protonmail.com</a>
+Clinton Township, MI
+| <a href="tel:+12487658611">(248)765-8611</a>
+| <a href="sandelgadopy@protonmail.com">sandelgadopy@protonmail.com</a>
 | <a href="www.linkedin.com/in/sandra-meza-delgado-381b5527">LinkedIn</a>
 </div>
 
