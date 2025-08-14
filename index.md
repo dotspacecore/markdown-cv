@@ -50,7 +50,7 @@ __Roshka__, Paraguay
     - Wrote and maintained frontend pages for online banking apps using jQuery/Bootstrap/JSP.
     - Created Restful APIs for the online banking backend, and backend functions to connect to the banking core of our respective clients to process operations using Java/Spring
     - Wrote both frontend and backend code to manage bussiness operations, like payroll and corporate phone credit transfers, for our B2B application using JSF/Richfaces.
-    - Wrote both REST and SOAP APIs to connect third party businesses to the AS-400 (IBM i) core system por a payment processor client.
+    - Wrote both REST and SOAP APIs to connect third party businesses to the AS-400 (IBM i) core system for a payment processor client.
 
 
 ## Education
