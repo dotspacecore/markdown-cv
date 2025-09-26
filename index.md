@@ -7,7 +7,7 @@ Experienced backend engineer with 10+ years of experience developing web applica
 
 <div id="webaddress">
 Clinton Township, MI
-| <a href="tel:+12487658611">(248)765-8611</a>
+| <a href="tel:+12487658611">(248)568-6142</a>
 | <a href="sandelgadopy@protonmail.com">sandelgadopy@protonmail.com</a>
 | <a href="www.linkedin.com/in/sandelgado">LinkedIn</a>
 </div>
