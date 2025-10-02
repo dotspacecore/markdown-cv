@@ -3,7 +3,7 @@ layout: cv
 title: Sandra Delgado's CV
 ---
 # Sandra Delgado
-Experienced backend engineer with 10+ years of experience developing web applications, mostly using Java and related frameworks, with some Frontend experience.
+Experienced software engineer with 10+ years of experience developing web applications, mostly using Java, C# and related frameworks, with some Frontend experience in React.
 
 <div id="webaddress">
 Clinton Township, MI
